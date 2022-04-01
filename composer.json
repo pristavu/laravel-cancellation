@@ -1,12 +1,12 @@
 {
-    "name": "signifly/laravel-cancellation",
+    "name": "pristavu/laravel-cancellation",
     "description": "A laravel cancellation package.",
     "keywords": [
         "signifly",
         "cancellation",
         "laravel"
     ],
-    "homepage": "https://github.com/signifly/laravel-cancellation",
+    "homepage": "https://github.com/pristavu/laravel-cancellation",
     "license": "MIT",
     "authors": [
         {
@@ -16,11 +16,11 @@
     ],
     "require": {
         "php": "^7.3|^8.0",
-        "illuminate/database": "^6.0|^7.0|^8.0",
-        "illuminate/support": "^6.0|^7.0|^8.0"
+        "illuminate/database": "^6.0|^7.0|^8.0|^9.0",
+        "illuminate/support": "^6.0|^7.0|^8.0|^9.0"
     },
     "require-dev": {
-        "orchestra/testbench": "^4.0|^5.0|^6.0",
+        "orchestra/testbench": "^4.0|^5.0|^6.0|^7.0",
         "phpunit/phpunit": "^7.0|^8.0|^9.0"
     },
     "autoload": {
